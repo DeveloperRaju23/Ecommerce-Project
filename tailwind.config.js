@@ -6,14 +6,14 @@ export default {
   ],
   theme: {
     extend: {
-      color:{
-        headingColor: "#274C5B",
-        yellowColor: "#EFD372",
-        grayColor: "#D4D4D4",
-        whiteColor: "#F9F8F8",
-        blackColor: "#525C60",
-        hasaColor: "#EFF6F1",
-      }
+      colors:{
+        headingColor:"#274C5B",
+        yellowColor:"#EFD372",
+        grayColor:"#D4D4D4",
+        whiteColor:"#F9F8F8",
+        blackColor:"#525C60",
+        hasaColor:"#EFF6F1",
+      },
     },
   },
   plugins: [],

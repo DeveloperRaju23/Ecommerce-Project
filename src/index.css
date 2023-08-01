@@ -1,0 +1,32 @@
+*{
+  padding: 0;
+  margin: 0;  
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+@layer base{
+    section{
+        @apply py-[60px] lg:py-[80px]
+    }
+}
+
+@layer components{
+    .container{
+        @apply max-w-full w-[1400px] mx-auto px-5
+    }
+    .home_background{
+        @apply  bg-[url('./assets/HomePage/background.png')] bg-no-repeat w-full bg-[#F1EFF0] bg-cover  z-30  
+    }
+    .big_title{
+            @apply text-[35px] xl:text-[58px] leading-[60px] lg:text-[45px] px-5  text-headingColor font-extrabold 
+    }
+    .explore_now_btn{
+        @apply bg-yellowColor text-headingColor px-6 py-4 rounded-md font-bold
+    }
+}
+
