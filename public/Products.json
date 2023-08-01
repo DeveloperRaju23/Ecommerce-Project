@@ -5,32 +5,108 @@
         "name": "Calabrese Broccoli",
         "image":"https://i.ibb.co/mTbvyqg/Image-4.png",
         "description": "Simply dummy text of the printing and typesetting industry. Lorem had ceased to been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley.",
-        "price":13.00,
-        "discount": 20.00
+        "price":"13.00",
+        "discount":"20.00",
+        "title":"Vegetable"
       },
       {
         "id": 2,
         "name": "Calabrese Broccoli",
-        "image":"https://i.ibb.co/mTbvyqg/Image-4.png",
+        "image":"https://i.ibb.co/W0xM1Yc/Photo-2.png",
         "description": "Simply dummy text of the printing and typesetting industry. Lorem had ceased to been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley.",
-        "price":14.00,
-        "discount": 20.00
+        "price":"14.00",
+        "discount":"20.00",
+        "title":"Fresh"
       },
       {
         "id": 3,
-        "name": "Calabrese Broccoli",
-        "image":"https://i.ibb.co/mTbvyqg/Image-4.png",
+        "name": "White Nuts",
+        "image":"https://i.ibb.co/hMnYTsd/Photo-3.png",
         "description": "Simply dummy text of the printing and typesetting industry. Lorem had ceased to been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley.",
-        "price":13.00,
-        "discount": 20.00
+        "price":"15.00",
+        "discount":"20.00",
+        "title":"Millets"
       },
       {
         "id": 4,
-        "name": "Calabrese Broccoli",
-        "image":"https://i.ibb.co/mTbvyqg/Image-4.png",
+        "name": "Vegan Red Tomato",
+        "image":"https://i.ibb.co/z6W74ZB/image-13.png",
         "description": "Simply dummy text of the printing and typesetting industry. Lorem had ceased to been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley.",
-        "price":13.00,
-        "discount": 20.00
+        "price":"17.00",
+        "discount":"20.00",
+        "title":"Vegetable"
       },
+      {
+        "id": 5,
+        "name": "Mung Bean",
+        "image":"https://i.ibb.co/Wgbsc26/Mask-Group-1.png",
+        "description": "Simply dummy text of the printing and typesetting industry. Lorem had ceased to been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley.",
+        "price":"11.00",
+        "discount":"20.00",
+        "title":"Health"
+      },
+      {
+        "id": 6,
+        "name": "Brown Hazelnut",
+        "image":"https://i.ibb.co/D9qT3WR/Photo-4.png",
+        "description": "Simply dummy text of the printing and typesetting industry. Lorem had ceased to been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley.",
+        "price":"12.00",
+        "discount":"20.00",
+        "title":"Nuts"
+      },
+      {
+        "id":7,
+        "name": "Eggs",
+        "image":"https://i.ibb.co/Czd7zN6/Photo-5.png",
+        "description": "Simply dummy text of the printing and typesetting industry. Lorem had ceased to been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley.",
+        "price":"17.00",
+        "discount":"20.00",
+        "title":"Fresh"
+      },
+      {
+        "id":8,
+        "name": "Zelco Suji Elaichi Rusk",
+        "image":"https://i.ibb.co/CBGw6kd/Photo-6.png",
+        "description": "Simply dummy text of the printing and typesetting industry. Lorem had ceased to been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley.",
+        "price":"15.00",
+        "discount":"20.00",
+        "title":"Fresh"
+      },
+      {
+        "id":9,
+        "name": "Mung Bean",
+        "image":"https://i.ibb.co/Yt5cKLz/Photo-4.png",
+        "description": "Simply dummy text of the printing and typesetting industry. Lorem had ceased to been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley.",
+        "price":"15.00",
+        "discount":"20.00",
+        "title":"Health"
+      },
+      {
+        "id":10,
+        "name": "White Hazelnut",
+        "image":"https://i.ibb.co/YBQM29m/Photo-3.png",
+        "description": "Simply dummy text of the printing and typesetting industry. Lorem had ceased to been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley.",
+        "price":"15.00",
+        "discount":"20.00",
+        "title":"Nuts"
+      },
+      {
+        "id":11,
+        "name": "Fresh Corn",
+        "image":"https://i.ibb.co/92LgZ39/Photo-2.png",
+        "description": "Simply dummy text of the printing and typesetting industry. Lorem had ceased to been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley.",
+        "price":"15.00",
+        "discount":"20.00",
+        "title":"Fresh"
+      },
+      {
+        "id":12,
+        "name": "Organic Almonds",
+        "image":"https://i.ibb.co/264Wfbd/Photo-1.png",
+        "description": "Simply dummy text of the printing and typesetting industry. Lorem had ceased to been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley.",
+        "price":"15.00",
+        "discount":"20.00",
+        "title":"Fresh"
+      }
     ]
   
