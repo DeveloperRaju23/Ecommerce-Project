@@ -14,6 +14,9 @@ export default {
         blackColor:"#525C60",
         hasaColor:"#EFF6F1",
       },
+      fontFamily: {
+        dancingFont: ['Great Vibes', 'cursive'],
+      },
     },
   },
   plugins: [],

@@ -1,6 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Sacramento&display=swap');
 *{
   padding: 0;
   margin: 0;  
+  
 }
 @tailwind base;
 @tailwind components;
@@ -27,6 +29,9 @@
     }
     .explore_now_btn{
         @apply bg-yellowColor text-headingColor px-6 py-4 rounded-md font-bold
+    }
+    .shop_now_btn{
+        @apply  bg-headingColor text-white px-6 py-4 rounded-md font-bold
     }
 }
 
