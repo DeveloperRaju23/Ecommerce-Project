@@ -7,7 +7,7 @@ const Home = () => {
   return (
     <>
   <div className="home_background	">
-      <div className="pt-12 md:pt-0 lg:pt-0">
+      <div className="pt-12 md:pt-0 lg:pt-20 ">
         <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="lg:w-2/4 xl:w-2/5 lg:ps-16  mx-auto  w-full ">
               <p className="text-[#68A47F] text-[36px] font-dancingFont  ps-4">100% Natural Food</p>
@@ -15,7 +15,7 @@ const Home = () => {
             <button className="explore_now_btn ms-5 mt-6">Explore Now</button>
             </div>
            <div className="lg:w-2/4 xl:w-2/5 ">
-                <img className="object-cover " src={homeImg} alt="" />
+                <img className="object-cover lg:pt-12" src={homeImg} alt="" />
             </div>
         </div>
       </div>

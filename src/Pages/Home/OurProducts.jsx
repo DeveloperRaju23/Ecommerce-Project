@@ -19,7 +19,7 @@ const OurProducts = () => {
         </div>
         <div className="grid grid-cols-1 pt-8 md:grid-cols-3 gap-3 lg:grid-cols-4">
             {
-                products.slice(0, 8).map(item => <ProductsCard
+                products.map(item => <ProductsCard
                  key={item.id}
                  item={item}
                  >
@@ -33,3 +33,4 @@ const OurProducts = () => {
 };
 
 export default OurProducts;
+// .slice(0, 8)
