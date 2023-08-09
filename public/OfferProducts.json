@@ -1,0 +1,40 @@
+
+[
+    {
+      "id": 1,
+      "name": "Mung Bean",
+      "image":"https://i.ibb.co/Gs5tnmc/Photo-9-removebg-preview-1.png",
+      "description": "Simply dummy text of the printing and typesetting industry. Lorem had ceased to been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley.",
+      "price":"14.00",
+      "discount":"20.00",
+      "title":"Vegetable"
+    },
+    {
+      "id": 2,
+      "name": "Brown Hazelnut",
+      "image":"https://i.ibb.co/FXzM1Pq/Photo-10-removebg-preview.png",
+      "description": "Simply dummy text of the printing and typesetting industry. Lorem had ceased to been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley.",
+      "price":"19.00",
+      "discount":"20.00",
+      "title":"Fresh"
+    },
+    {
+        "id": 3,
+        "name": "Onion",
+        "image":"https://i.ibb.co/x2X5qd5/Photo-9-removebg-preview.png",
+        "description": "Simply dummy text of the printing and typesetting industry. Lorem had ceased to been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley.",
+        "price":"16.00",
+        "discount":"20.00",
+        "title":"Fresh"
+      },
+      {
+        "id": 4,
+        "name": "Cabbage",
+        "image":"https://i.ibb.co/0Dxxv5L/Photo-12-removebg-preview.png",
+        "description": "Simply dummy text of the printing and typesetting industry. Lorem had ceased to been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley.",
+        "price":"17.00",
+        "discount":"20.00",
+        "title":"Fresh"
+      }
+
+]

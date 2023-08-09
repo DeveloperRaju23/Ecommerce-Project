@@ -3,7 +3,8 @@ import ProductsCard from "./ProductsCard";
 
 const OurProducts = () => {
     const [products , setProducts] = useState([])
-
+    const [showAll, setShowAll] = useState(false);
+    const itemsToShow = showAll ? products : products.slice(0, 8);
 
     useEffect( () => {
         fetch("Products.json")
@@ -19,15 +20,25 @@ const OurProducts = () => {
         </div>
         <div className="grid grid-cols-1 pt-8 md:grid-cols-3 gap-3 lg:grid-cols-4">
             {
-                products.map(item => <ProductsCard
+                itemsToShow.map(item => <ProductsCard
                  key={item.id}
                  item={item}
                  >
 
                 </ProductsCard>)
             }
+     
+            
         </div>
+        <div>
+            {!showAll && (
+         <button  onClick={() => setShowAll(true)} className="shop_now_btn lg:mt-20 flex  mx-auto text-center ">Load More</button>
+      
+                  
+     )}
+            </div>
       </div>
+      
     </section>
   );
 };

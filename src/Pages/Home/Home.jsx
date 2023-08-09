@@ -3,6 +3,8 @@ import homeImg from "../../assets/HomePage/img (2).png"
 import GetDiscount from "./GetDiscount";
 import HomeAbout from "./HomeAbout";
 import OurProducts from "./OurProducts";
+import OfferProduct from "./OfferProduct";
+import FriendlyStore from "./FriendlyStore";
 const Home = () => {
   return (
     <>
@@ -24,6 +26,8 @@ const Home = () => {
 <GetDiscount></GetDiscount>
 <HomeAbout></HomeAbout>
 <OurProducts></OurProducts>
+<OfferProduct></OfferProduct>
+{/* <FriendlyStore></FriendlyStore> */}
     </>
   
   );
